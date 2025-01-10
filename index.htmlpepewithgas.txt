@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pepe Wif Gas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #001f3f;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            padding: 20px;
+            background-color: #0074d9;
+            color: #ffffff;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .hero {
+            padding: 50px 20px;
+        }
+        .hero img {
+            width: 300px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
+        .hero h2 {
+            font-size: 2em;
+            margin: 10px 0;
+        }
+        .hero p {
+            font-size: 1.2em;
+        }
+        .cta {
+            margin-top: 30px;
+        }
+        .cta a {
+            text-decoration: none;
+            background-color: #2ecc40;
+            color: #ffffff;
+            padding: 15px 30px;
+            border-radius: 5px;
+            font-size: 1.2em;
+            transition: background-color 0.3s;
+        }
+        .cta a:hover {
+            background-color: #28a745;
+        }
+        footer {
+            padding: 20px;
+            background-color: #001f3f;
+            color: #7fdbff;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pepe Wif Gas</h1>
+    </header>
+
+    <section class="hero">
+        <img src="pepe-wif-gas.png" alt="Pepe Wif Gas">
+        <h2>The Legendary Meme Frog</h2>
+        <p>Welcome to the world of Pepe Wif Gas, the most iconic crypto frog in Memeville! Join us for laughs, insights, and a cloud of green hilarity.</p>
+        <div class="cta">
+            <a href="#">Join the Gas Club</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Pepe Wif Gas. All rights reserved.</p>
+    </footer>
+</body>
+</html>
